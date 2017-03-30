@@ -15,6 +15,7 @@
 		7C01B2E01E88F3F10036B881 /* junApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C01B2DF1E88F3F10036B881 /* junApplicationTests.swift */; };
 		7C01B2EB1E88F3F10036B881 /* junApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C01B2EA1E88F3F10036B881 /* junApplicationUITests.swift */; };
 		7C01B2F91E88FC810036B881 /* PhraseListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C01B2F81E88FC810036B881 /* PhraseListViewController.swift */; };
+		7CF4ABF41E8CD965008E5421 /* Phraselist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7CF4ABF31E8CD965008E5421 /* Phraselist.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7C01B2EA1E88F3F10036B881 /* junApplicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = junApplicationUITests.swift; sourceTree = "<group>"; };
 		7C01B2EC1E88F3F10036B881 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C01B2F81E88FC810036B881 /* PhraseListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhraseListViewController.swift; sourceTree = "<group>"; };
+		7CF4ABF31E8CD965008E5421 /* Phraselist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Phraselist.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				7C01B2D31E88F3F10036B881 /* LaunchScreen.storyboard */,
 				7C01B2D61E88F3F10036B881 /* Info.plist */,
 				7C01B2F81E88FC810036B881 /* PhraseListViewController.swift */,
+				7CF4ABF31E8CD965008E5421 /* Phraselist.plist */,
 			);
 			path = junApplication;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C01B2D51E88F3F10036B881 /* LaunchScreen.storyboard in Resources */,
+				7CF4ABF41E8CD965008E5421 /* Phraselist.plist in Resources */,
 				7C01B2D21E88F3F10036B881 /* Assets.xcassets in Resources */,
 				7C01B2D01E88F3F10036B881 /* Main.storyboard in Resources */,
 			);
@@ -518,6 +522,7 @@
 				7C01B2F11E88F3F10036B881 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C01B2F21E88F3F10036B881 /* Build configuration list for PBXNativeTarget "junApplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +531,7 @@
 				7C01B2F41E88F3F10036B881 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C01B2F51E88F3F10036B881 /* Build configuration list for PBXNativeTarget "junApplicationUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +540,7 @@
 				7C01B2F71E88F3F10036B881 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
