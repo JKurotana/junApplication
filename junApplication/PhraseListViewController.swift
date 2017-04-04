@@ -9,6 +9,7 @@
 import UIKit
 
 class PhraseListViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
+    
     {
     //プロパティリストから読み込んだデータを格納する配列
     var PhraseList:[String] = []
@@ -28,6 +29,7 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         for(key,data) in dic!{
             PhraseList.append(key as! String)
         }
+        
         print(PhraseList)
         
 

@@ -6,15 +6,37 @@
 	<dict>
 		<key>1</key>
 		<dict>
-			<key>New item</key>
+			<key>phrase</key>
+			<string>I have a sharp pain in my chest.</string>
+			<key>translation</key>
+			<string>胸に鋭い痛みがあります。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
 			<string></string>
 		</dict>
-		<key>　Phrase</key>
-		<string></string>
-		<key>　</key>
-		<string></string>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have a dull ache in my back.</string>
+			<key>translation</key>
+			<string>背中に鈍い痛みがあります。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>Lately, when I go No.2, only a little comes out.</string>
+			<key>translation</key>
+			<string>最近トイレで大きい方をしても、少ししか出ません。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
 	</dict>
-	<key></key>
-	<string></string>
 </dict>
 </plist>
