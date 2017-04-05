@@ -27,8 +27,24 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         let dic = NSDictionary(contentsOfFile: filePath!)
         // TableViewで扱いやすい配列（エリア名の入ってる配列）を作成
         for(key,data) in dic!{
+            print(data)
+            
+            //dictionary型に変換
+
+            let data1 = NSDictionary(contents: filePath!)
+    
+            var data:Data = as!dic {
+                
+            let dic = NSDictionary(contents: filePath!)
+
+            for(key2,data2) in dic2
+                
+            for(key2,data2) in data{
+                
+            }
             PhraseList.append(key as! String)
         }
+        
         
         print(PhraseList)
         
