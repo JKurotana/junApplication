@@ -9,8 +9,10 @@
 import UIKit
 
 class PhraseListViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
-    
     {
+    
+   
+
     //プロパティリストから読み込んだデータを格納する配列
     var PhraseList:[String] = []
     //選択されたエリア名
@@ -20,6 +22,9 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
+        
         
         // プロパティリストのファイルパスを取得
         let filePath = Bundle.main.path(forResource:"Phraselist", ofType: "plist")
@@ -31,29 +36,55 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
             
             //dictionary型に変換
 
-            let data1 = NSDictionary(contents: filePath!)
-    
-            var data:Data = as!dic {
+            
+            var dic1:NSDictionary = data as! NSDictionary
                 
-            let dic = NSDictionary(contents: filePath!)
+                
+            for(key1,data1) in dic1 {
+                
+                print("data1----------------------------")
+                print(key1)
+                print(data1)
+            var dic2:NSDictionary = data1 as! NSDictionary
+                
+                
+                for(key2,data2) in dic2 {
+                print("data2----------------------------")
+                print(key2)
+                print(data2)
+                
+                    
+                PhraseList.append(key as! String)
+                print(PhraseList)
+                    
 
-            for(key2,data2) in dic2
-                
-            for(key2,data2) in data{
+                    
+                    
+                    }
+                    
+                    
+                    
+                    
+                }
                 
             }
-            PhraseList.append(key as! String)
-        }
-        
-        
-        print(PhraseList)
+            
+            
         
 
     }
+        
+        
+        
+        
+        
+        
+
+    
 
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return PhraseList.count
-    }
+        }
     
     // ③リストに表示を文字を決定し、表示
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
@@ -67,7 +98,7 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         //        cell.textLabel?.textColor = UIColor.blue
         
         return cell
-    }
+        }
 
     // セルが選択された時発動
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
@@ -76,25 +107,27 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         selectName = PhraseList[indexPath.row] as String
         //セグエを指定して画面遷移
         performSegue(withIdentifier: "showSecondView", sender: nil)
-    }
+        }
     
     // 画面遷移する時に、次の画面へエリア名を渡す
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?){
+        
         // 次の画面のオブジェクトを作成
         
         //let secondVC = segue.destination;as PhraseViewController
         
         // 次の画面のプロパティに選択されたエリア名を設定
         //secondVC.scSelectName = selectName
-    }
-    
-    override func didReceiveMemoryWarning() {
+        
+        }
+    override func didReceiveMemoryWarning(){
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
-    }
+        
+        }
 
-
-
+    
+    
 
     /*
     // MARK: - Navigation
