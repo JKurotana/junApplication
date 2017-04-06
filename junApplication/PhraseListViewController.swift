@@ -54,7 +54,10 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
                 print(data2)
                 
                     
-                PhraseList.append(key as! String)
+                    if ((key2 as! String) == "phrase"){
+                        PhraseList.append(data2 as! String)
+                        
+                    }
                 print(PhraseList)
                     
 
