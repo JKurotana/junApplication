@@ -26,7 +26,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="健康"/>
                                 <connections>
-                                    <segue destination="Rs6-el-74h" kind="show" identifier="PhraseListView" id="0gs-cW-GO2"/>
+                                    <segue destination="Rs6-el-74h" kind="show" identifier="Health" id="0gs-cW-GO2"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="S6F-Sf-0Yz">
@@ -58,6 +58,9 @@
                                 <rect key="frame" x="184" y="291" width="31" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="恋愛"/>
+                                <connections>
+                                    <segue destination="Rs6-el-74h" kind="show" identifier="Love" id="PRd-mn-Wc9"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qeF-px-wau">
                                 <rect key="frame" x="257" y="291" width="31" height="30"/>
@@ -112,8 +115,9 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="yPm-g6-5Bz">
-                                <rect key="frame" x="0.0" y="64" width="320" height="504"/>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="yPm-g6-5Bz">
+                                <rect key="frame" x="0.0" y="64" width="320" height="496"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" id="s0i-9z-AR2">
@@ -132,12 +136,6 @@
                             </tableView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <constraints>
-                            <constraint firstItem="yPm-g6-5Bz" firstAttribute="bottom" secondItem="LDf-Sr-ogd" secondAttribute="top" id="2pY-Xy-IoV"/>
-                            <constraint firstItem="yPm-g6-5Bz" firstAttribute="top" secondItem="njb-Tg-guz" secondAttribute="bottom" id="KXB-Rj-fQK"/>
-                            <constraint firstItem="yPm-g6-5Bz" firstAttribute="leading" secondItem="6GY-UQ-Jc9" secondAttribute="leading" id="qbE-4n-733"/>
-                            <constraint firstAttribute="trailing" secondItem="yPm-g6-5Bz" secondAttribute="trailing" id="ulv-8z-tP5"/>
-                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="nXT-zz-WKo"/>
                     <connections>
@@ -167,4 +165,7 @@
             <point key="canvasLocation" x="-78.75" y="137.32394366197184"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="0gs-cW-GO2"/>
+    </inferredMetricsTieBreakers>
 </document>

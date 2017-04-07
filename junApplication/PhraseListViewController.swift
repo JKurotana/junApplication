@@ -23,7 +23,8 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
+        print("selectName----------------------------")
+        print(selectName)
         
         
         // プロパティリストのファイルパスを取得
@@ -34,6 +35,9 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         for(key,data) in dic!{
             print(data)
             
+            
+            print("Key----------------------------")
+            print(key)
             //dictionary型に変換
 
             
@@ -53,12 +57,16 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
                 print(key2)
                 print(data2)
                 
-                    
-                    if ((key2 as! String) == "phrase"){
-                        PhraseList.append(data2 as! String)
+                    if ((key as! String) == selectName){
                         
+                    if ((key2 as! String) == "phrase"){
+                    PhraseList.append(data2 as! String)
+                            
                     }
-                print(PhraseList)
+
+            }
+                    
+                    print(PhraseList)
                     
 
                     

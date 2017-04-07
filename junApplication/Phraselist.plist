@@ -2,28 +2,108 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Health</key>
+	<key>Love</key>
 	<dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>I can’t get hold of you when I need you.</string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
 		<key>1</key>
 		<dict>
 			<key>phrase</key>
-			<string>I have a sharp pain in my chest.</string>
-			<key>translation</key>
-			<string>胸に鋭い痛みがあります。</string>
-			<key>keyword</key>
+			<string>I can’t see you when I need to see you.</string>
+			<key>New item - 2</key>
+			<string>会いたい(必要がある)時に会えない。</string>
+			<key>New item - 3</key>
 			<string></string>
-			<key>image</key>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Health</key>
+	<dict>
+		<key>8</key>
+		<dict>
+			<key>phrase</key>
+			<string>My finger tingles.</string>
+			<key>New item - 2</key>
+			<string>指がピリピリします。</string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>phrase</key>
+			<string>It feels likes a sharp prick.</string>
+			<key>translation</key>
+			<string>チクチク刺されるような痛みがあります。</string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have a sharp pain in my chest.</string>
+			<key>New item - 2</key>
+			<string>胸に鋭い痛みがあります。</string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have a dull ache in my back.</string>
+			<key>New item - 2</key>
+			<string>背中に鈍い痛みがあります。</string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>My eye hurts.</string>
+			<key>New item - 2</key>
+			<string>目が痛みます。</string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have sore muscles. (=My muscles are sore.)(=My body feels achy.) </string>
+			<key>New item - 2</key>
+			<string>筋肉痛があります。</string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
 			<string></string>
 		</dict>
 		<key>2</key>
 		<dict>
 			<key>phrase</key>
-			<string>I have a dull ache in my back.</string>
-			<key>translation</key>
-			<string>背中に鈍い痛みがあります。</string>
-			<key>keyword</key>
+			<string>It’s throbbing</string>
+			<key>New item - 2</key>
+			<string>ズキンズキンする痛みがあります。</string>
+			<key>New item - 3</key>
 			<string></string>
-			<key>image</key>
+			<key>New item - 4</key>
 			<string></string>
 		</dict>
 		<key>3</key>
