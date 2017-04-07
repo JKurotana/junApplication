@@ -2,6 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Work</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>If you can’t get ahead in the world without knowing computers and English, then the future is pretty dark for me.</string>
+			<key>New item</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+		</dict>
+	</dict>
 	<key>Love</key>
 	<dict>
 		<key>2</key>

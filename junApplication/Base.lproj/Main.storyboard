@@ -33,6 +33,9 @@
                                 <rect key="frame" x="106" y="224" width="31" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="仕事"/>
+                                <connections>
+                                    <segue destination="Rs6-el-74h" kind="show" identifier="Work" id="mcx-CS-dN1"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HQ0-5U-xcm">
                                 <rect key="frame" x="184" y="224" width="31" height="30"/>
@@ -146,6 +149,24 @@
             </objects>
             <point key="canvasLocation" x="1826.25" y="136.26760563380282"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="fds-ZK-4Gr">
+            <objects>
+                <viewController id="1GG-Px-2IJ" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="3Jb-t3-LUg"/>
+                        <viewControllerLayoutGuide type="bottom" id="21h-Bj-0DB"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="TZ1-rm-6AU">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7DN-I9-CAR" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2754" y="137"/>
+        </scene>
         <!--Navigation Controller-->
         <scene sceneID="1nv-ZA-y3P">
             <objects>
@@ -166,6 +187,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="0gs-cW-GO2"/>
+        <segue reference="mcx-CS-dN1"/>
     </inferredMetricsTieBreakers>
 </document>
