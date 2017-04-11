@@ -124,10 +124,15 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
     override func prepare(for segue: UIStoryboardSegue, sender: Any?){
         
         // 次の画面のオブジェクトを作成
+        let secondVC = segue.destination as!
+        PhraseDetailViewController
+
         
         //let secondVC = segue.destination;as PhraseViewController
         
         // 次の画面のプロパティに選択されたエリア名を設定
+        secondVC.selectName = selectName
+
         //secondVC.scSelectName = selectName
         
         }

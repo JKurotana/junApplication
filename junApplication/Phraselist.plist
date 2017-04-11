@@ -2,6 +2,81 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Childcare</key>
+	<dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>Recently, I am worried that a baby does not drink much milk.</string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>I am at a loss for babies crying at night.</string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Family</key>
+	<dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>My husband often shakes violence.</string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>Recently, my daughter is in trouble in the rebellious period.</string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Study</key>
+	<dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>I am wondering how to study efficiently.</string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>Recently, my grades are not going up, so I am suffering.</string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 4</key>
+			<string></string>
+		</dict>
+	</dict>
 	<key>Work</key>
 	<dict>
 		<key>1</key>

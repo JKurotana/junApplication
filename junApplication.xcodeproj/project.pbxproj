@@ -15,6 +15,8 @@
 		7C01B2E01E88F3F10036B881 /* junApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C01B2DF1E88F3F10036B881 /* junApplicationTests.swift */; };
 		7C01B2EB1E88F3F10036B881 /* junApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C01B2EA1E88F3F10036B881 /* junApplicationUITests.swift */; };
 		7C01B2F91E88FC810036B881 /* PhraseListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C01B2F81E88FC810036B881 /* PhraseListViewController.swift */; };
+		7CAA093F1E9B66EC00D5523B /* PhraseDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CAA093E1E9B66EC00D5523B /* PhraseDetailViewController.swift */; };
+		7CAA09411E9B674A00D5523B /* speaker.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7CAA09401E9B674A00D5523B /* speaker.jpeg */; };
 		7CF4ABF41E8CD965008E5421 /* Phraselist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7CF4ABF31E8CD965008E5421 /* Phraselist.plist */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +52,8 @@
 		7C01B2EA1E88F3F10036B881 /* junApplicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = junApplicationUITests.swift; sourceTree = "<group>"; };
 		7C01B2EC1E88F3F10036B881 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C01B2F81E88FC810036B881 /* PhraseListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhraseListViewController.swift; sourceTree = "<group>"; };
+		7CAA093E1E9B66EC00D5523B /* PhraseDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhraseDetailViewController.swift; sourceTree = "<group>"; };
+		7CAA09401E9B674A00D5523B /* speaker.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = speaker.jpeg; sourceTree = "<group>"; };
 		7CF4ABF31E8CD965008E5421 /* Phraselist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Phraselist.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				7C01B2CA1E88F3F10036B881 /* AppDelegate.swift */,
+				7CAA09401E9B674A00D5523B /* speaker.jpeg */,
 				7C01B2CC1E88F3F10036B881 /* ViewController.swift */,
 				7C01B2CE1E88F3F10036B881 /* Main.storyboard */,
 				7C01B2D11E88F3F10036B881 /* Assets.xcassets */,
@@ -109,6 +114,7 @@
 				7C01B2D61E88F3F10036B881 /* Info.plist */,
 				7C01B2F81E88FC810036B881 /* PhraseListViewController.swift */,
 				7CF4ABF31E8CD965008E5421 /* Phraselist.plist */,
+				7CAA093E1E9B66EC00D5523B /* PhraseDetailViewController.swift */,
 			);
 			path = junApplication;
 			sourceTree = "<group>";
@@ -241,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CAA09411E9B674A00D5523B /* speaker.jpeg in Resources */,
 				7C01B2D51E88F3F10036B881 /* LaunchScreen.storyboard in Resources */,
 				7CF4ABF41E8CD965008E5421 /* Phraselist.plist in Resources */,
 				7C01B2D21E88F3F10036B881 /* Assets.xcassets in Resources */,
@@ -269,6 +276,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CAA093F1E9B66EC00D5523B /* PhraseDetailViewController.swift in Sources */,
 				7C01B2F91E88FC810036B881 /* PhraseListViewController.swift in Sources */,
 				7C01B2CD1E88F3F10036B881 /* ViewController.swift in Sources */,
 				7C01B2CB1E88F3F10036B881 /* AppDelegate.swift in Sources */,
