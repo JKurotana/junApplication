@@ -51,26 +51,30 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
                 print(data1)
             var dic2:NSDictionary = data1 as! NSDictionary
                 
-                
-                for(key2,data2) in dic2 {
-                print("data2----------------------------")
-                print(key2)
-                print(data2)
-                
-                    if ((key as! String) == selectName){
-                        
-                    if ((key2 as! String) == "phrase"){
-                    PhraseList.append(data2 as! String)
-                            
-                    }
-
-            }
+                if ((dic2["phrase"] as! String) == selectName){
                     
+                    myTranslation.text = dic2["translation"] as! String
+
+                    PhraseList.append([Phrase, dic2[Phrase],translation, dic2[translation]])
+                
+                
+//                for(key2,data2) in dic2 {
+//                print("data2----------------------------")
+//                print(key2)
+//                print(data2)
+//                
+//                    if ((key as! String) == selectName){
+//                        
+//                    if ((key2 as! String) == "phrase"){
+//                    PhraseList.append(data2 as! String)
+//                            
+//                    }
+//
+//            }
+                
                     print(PhraseList)
                     
-
-                    
-                    
+                                        
                     }
                     
                     

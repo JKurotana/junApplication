@@ -8,9 +8,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>Recently, I am worried that a baby does not drink much milk.</string>
-			<key>New item - 2</key>
-			<string></string>
-			<key>New item - 3</key>
+			<key>translation</key>
+			<string>最近、赤ん坊がお乳をあまり飲まないので心配。</string>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -19,9 +19,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>I am at a loss for babies crying at night.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string></string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -33,9 +33,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>My husband often shakes violence.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string></string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -44,9 +44,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>Recently, my daughter is in trouble in the rebellious period.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string></string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -58,9 +58,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>I am wondering how to study efficiently.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string></string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -69,9 +69,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>Recently, my grades are not going up, so I am suffering.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string></string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -83,9 +83,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>If you can’t get ahead in the world without knowing computers and English, then the future is pretty dark for me.</string>
-			<key>New item</key>
+			<key>translation</key>
 			<string></string>
-			<key>New item - 2</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 3</key>
 			<string></string>
@@ -97,9 +97,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>I can’t get hold of you when I need you.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string></string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -108,9 +108,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>I can’t see you when I need to see you.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string>会いたい(必要がある)時に会えない。</string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -122,9 +122,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>My finger tingles.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string>指がピリピリします。</string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -135,7 +135,7 @@
 			<string>It feels likes a sharp prick.</string>
 			<key>translation</key>
 			<string>チクチク刺されるような痛みがあります。</string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -144,9 +144,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>I have a sharp pain in my chest.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string>胸に鋭い痛みがあります。</string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -155,9 +155,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>I have a dull ache in my back.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string>背中に鈍い痛みがあります。</string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>
@@ -166,21 +166,21 @@
 		<dict>
 			<key>phrase</key>
 			<string>My eye hurts.</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string>目が痛みます。</string>
-			<key>New item - 3</key>
-			<string></string>
+			<key>keyword</key>
+			<string>hurts : 痛み</string>
 			<key>New item - 4</key>
 			<string></string>
 		</dict>
 		<key>1</key>
 		<dict>
 			<key>phrase</key>
-			<string>I have sore muscles. (=My muscles are sore.)(=My body feels achy.) </string>
-			<key>New item - 2</key>
+			<string>I have sore muscles. </string>
+			<key>translation</key>
 			<string>筋肉痛があります。</string>
-			<key>New item - 3</key>
-			<string></string>
+			<key>keyword</key>
+			<string>=My muscles are sore. =My body feels achy.</string>
 			<key>New item - 4</key>
 			<string></string>
 		</dict>
@@ -188,9 +188,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>It’s throbbing</string>
-			<key>New item - 2</key>
+			<key>translation</key>
 			<string>ズキンズキンする痛みがあります。</string>
-			<key>New item - 3</key>
+			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
 			<string></string>

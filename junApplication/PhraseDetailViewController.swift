@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import AVFoundation
 
 class PhraseDetailViewController: UIViewController {
 
@@ -14,7 +15,10 @@ class PhraseDetailViewController: UIViewController {
     //選択されたエリア名
     var selectName = ""
     
-
+    @IBOutlet weak var myTranslation: UILabel!
+    
+    @IBOutlet weak var myKeyword: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -47,25 +51,33 @@ class PhraseDetailViewController: UIViewController {
                 var dic2:NSDictionary = data1 as! NSDictionary
                 
                 
-                for(key2,data2) in dic2 {
-                    print("data2----------------------------")
-                    print(key2)
-                    print(data2)
+                if ((dic2["phrase"] as! String) == selectName){
                     
-                    if ((key as! String) == selectName){
-                        
-                        if ((key2 as! String) == "phrase"){
-                            
-                            
-                        }
-                        
-                    }
+                    myTranslation.text = dic2["translation"] as! String
                     
-                                        
+                    myKeyword.text = dic2["keyword"] as! String
+                    
                     
                     
                     
                 }
+                
+                
+                
+//                for(key2,data2) in dic2 {
+//                    print("data2----------------------------")
+//                    print(key2)
+//                    print(data2)
+//                    
+//                    var dic3:NSDictionary = data2 as! NSDictionary
+//                    
+//                    
+//                    
+//                                        
+//                    
+//                    
+//                    
+//                }
                 
                 
                 
@@ -92,6 +104,17 @@ class PhraseDetailViewController: UIViewController {
     
     //スピーカーボタンが押された時
     @IBAction func mybtnSpeaker(_ sender: UIButton) {
+        
+        
+            let speechSynthesizer = AVSpeechSynthesizer()
+            let utterance = AVSpeechUtterance(string: self.myPhrase.text!)
+            let voice = AVSpeechSynthesisVoice(language: "en-US")
+            utterance.voice = voice
+            speechSynthesizer.speak(utterance)
+        
+    
+        
+        
     }
     
     
