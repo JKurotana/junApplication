@@ -7,12 +7,12 @@
 		<key>6</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>There are few deposits in the bank.</string>
 			<key>translation</key>
-			<string></string>
+			<string>銀行に預金が少ししかない。</string>
 			<key>keyword</key>
 			<string></string>
-			<key></key>
+			<key>image</key>
 			<string></string>
 		</dict>
 		<key>5</key>

@@ -55,7 +55,7 @@ class PhraseDetailViewController: UIViewController {
                     
                     myTranslation.text = dic2["translation"] as! String
                     
-                    myKeyword.text = dic2["keyword"] as! String
+//                    myKeyword.text = dic2["keyword"] as! String
                     
                     
                     
