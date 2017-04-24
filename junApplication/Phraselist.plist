@@ -2,14 +2,512 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Childcare</key>
+	<key>Money・Property</key>
 	<dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string></string>
+			<key>translation</key>
+			<string></string>
+			<key>keyword</key>
+			<string></string>
+			<key></key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>There is request of the consolation money from a wife and is troubled by having got a divorce.
+
+</string>
+			<key>translation</key>
+			<string>離婚をしたことで、妻からの慰謝料の請求があり悩んでいる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>I want to challenge real estate, but do not know at first what I should begin with.</string>
+			<key>translation</key>
+			<string>不動産に挑戦してみたいが、まず何から始めればいいかわからない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>I invested it in a stock, but have failed.</string>
+			<key>translation</key>
+			<string>株に投資をしたが失敗してしまった。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
 		<key>2</key>
 		<dict>
 			<key>phrase</key>
-			<string>Recently, I am worried that a baby does not drink much milk.</string>
+			<string>Though I lent the money to a friend, he/she does not return it.</string>
 			<key>translation</key>
-			<string>最近、赤ん坊がお乳をあまり飲まないので心配。</string>
+			<string>友人にお金を貸したけど、返してくれない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>I owe it a large amount of money.</string>
+			<key>translation</key>
+			<string>多額の借金がある。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Education</key>
+	<dict>
+		<key>20</key>
+		<dict>
+			<key>phrase</key>
+			<string>I want to let our child go to the university, but cannot but depend on a scholarship as there is not money.</string>
+			<key>translation</key>
+			<string>うちの子を大学に行かせたいがお金がないので、奨学金に頼るしかない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child does not want to go to school.</string>
+			<key>translation</key>
+			<string>うちの子が学校に行きたがらない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>phrase</key>
+			<string>You will understand it properly and are troubled every day if I educate you how.
+
+</string>
+			<key>translation</key>
+			<string>どういうふうに教育すれば、ちゃんとわかってくれるのか日々悩んでいる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child does not have concentration.</string>
+			<key>translation</key>
+			<string>うちの子は集中力がない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>phrase</key>
+			<string>As our child is shyness, I do not stand alone at school or am worry.</string>
+			<key>translation</key>
+			<string>うちの子は人見知りなので、学校で孤立しないか心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>phrase</key>
+			<string>The results of our child are not so good.</string>
+			<key>translation</key>
+			<string>うちの子の成績があまり良くない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is slow that our child learns study.</string>
+			<key>translation</key>
+			<string>うちの子は勉強を覚えるのが遅い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child does not do homework well.</string>
+			<key>translation</key>
+			<string>うちの子が宿題をしっかりやらない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>phrase</key>
+			<string>When our child does not hear the story of the person from a teacher in charge well, I am warned many times.</string>
+			<key>translation</key>
+			<string>担任の先生からうちの子が人の話しをしっかり聞かない、と何回も注意を受けている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>phrase</key>
+			<string>You will do the education that a school leads to well in the future and are worry.</string>
+			<key>translation</key>
+			<string>学校がしっかり将来に繋がる教育をしてくれるか心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>phrase</key>
+			<string>Because I am weak in English, there is the vexation that is not taught a child well.</string>
+			<key>translation</key>
+			<string>私は英語が苦手なので、子供にしっかり教えてあげられない悔しさがある。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child seems to be weaker and weaker in English from now on to be the times of global.</string>
+			<key>translation</key>
+			<string>これからますますグローバルの時代になるのに、うちの子は英語が苦手のようだ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is worry whether our child comes to like study.</string>
+			<key>translation</key>
+			<string>うちの子が勉強を好きになってくれるかどうか心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child is not tormented at school or is worry.</string>
+			<key>translation</key>
+			<string>うちの子が学校でいじめられないか心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string>I train greetings to our child strictly to get a grip, but do not listen to you.</string>
+			<key>translation</key>
+			<string>うちの子に挨拶をしっかりするように厳しくしつけをしているが、言うことを聞かない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>I will let a child go to the private institution from the elementary school or am wondering whether to let public reach.</string>
+			<key>translation</key>
+			<string>小学校から子供を私立に行かせようか、公立に行かせようか迷っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>I sometimes feel that it is difficult to educate you to a child in various ways.</string>
+			<key>translation</key>
+			<string>子供にいろいろ教育することは難しいと時々感じる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>I want to let our child learn English from a kindergarten, but you will come to like English and are worry.</string>
+			<key>translation</key>
+			<string>うちの子には幼稚園から英語を習わせたいが、英語を好きになってくれるか心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>I want to send a child to the international school, but school expenses are too high.</string>
+			<key>translation</key>
+			<string>子供をインターナショナルスクールに入れたいが、学費が高すぎる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child had bad results of the physical education probably because of lack of exercise.
+
+</string>
+			<key>translation</key>
+			<string>うちの子は運動不足のせいか、体育の成績が悪い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Childcare</key>
+	<dict>
+		<key>20</key>
+		<dict>
+			<key>phrase</key>
+			<string>It costs milk charges of the baby plenty.</string>
+			<key>translation</key>
+			<string>赤ん坊のミルク代が結構かかるの。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is tiring to take a child to and from going and returning of the work to a nursery school.</string>
+			<key>translation</key>
+			<string>仕事の行き帰りに保育園まで子供を送迎するのは疲れる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>phrase</key>
+			<string>Stress piles up so that our child does not swallow an alien substance in a house because you must be nervous.</string>
+			<key>translation</key>
+			<string>うちの子が家で異物を飲み込まないように、神経を使わなければいけないのでストレスが溜まる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is hard to change the diaper of the baby.</string>
+			<key>translation</key>
+			<string>赤ん坊のオムツを変えるのが大変なの。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>phrase</key>
+			<string>Of our child is not well-conditioned.</string>
+			<key>translation</key>
+			<string>うちの子の体調が良くない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child does not do toothbrushing properly.</string>
+			<key>translation</key>
+			<string>うちの子が歯磨きをちゃんとしない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child does not do study properly.</string>
+			<key>translation</key>
+			<string>うちの子が勉強をちゃんとしない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>phrase</key>
+			<string>Our child has weak motor nerves.</string>
+			<key>translation</key>
+			<string>うちの子は運動神経が悪い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>phrase</key>
+			<string>A child does not listen to you.</string>
+			<key>translation</key>
+			<string>子供が言うことを聞かない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>phrase</key>
+			<string>As I gain weight because of the child whom children eat well a little and am slightly, I am anxious.
+
+</string>
+			<key>translation</key>
+			<string>子供がよく食べる子で、少し太りぎみなので心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>phrase</key>
+			<string>As a nursery school cannot leave a child crying around, oneself does not readily work.</string>
+			<key>translation</key>
+			<string>保育園が周りになく子供を預けられないので、自分がなかなか働けない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>phrase</key>
+			<string>As our child quarrels with a well neighboring child, I am in trouble.</string>
+			<key>translation</key>
+			<string>うちの子がよく近所の子とケンカをするので困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>phrase</key>
+			<string>As our child causes a problem plenty in a kindergarten, I am in trouble.</string>
+			<key>translation</key>
+			<string>うちの子が幼稚園でけっこう問題を起こすので困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>phrase</key>
+			<string>As our child does not adapt himself/herself to it very much in a kindergarten, I am in trouble.</string>
+			<key>translation</key>
+			<string>うちの子があまり幼稚園で溶け込んでいないので困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string>A husband does not help with child care.</string>
+			<key>translation</key>
+			<string>夫が子育てを手伝ってくれない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>I am busy with child care and cannot readily get one&apos;s time.</string>
+			<key>translation</key>
+			<string>育児に忙しくて自分の時間がなかなか取れない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>Child care is tiring than I thought.</string>
+			<key>translation</key>
+			<string>思っていた以上に育児って疲れる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>As there are not spirit, I am anxious about a baby.</string>
+			<key>translation</key>
+			<string>赤ん坊が元気がないので心配。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>As a baby does not drink milk very much, I am anxious.</string>
+			<key>translation</key>
+			<string>赤ん坊がお乳をあまり飲まないので心配。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
@@ -18,9 +516,9 @@
 		<key>1</key>
 		<dict>
 			<key>phrase</key>
-			<string>I am at a loss for babies crying at night.</string>
+			<string>Of the baby there is much crying at night, and cannot sleep well.</string>
 			<key>translation</key>
-			<string></string>
+			<string>赤ん坊の夜泣きが多くて、よく眠れない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
@@ -29,12 +527,219 @@
 	</dict>
 	<key>Family</key>
 	<dict>
+		<key>20</key>
+		<dict>
+			<key>phrase</key>
+			<string>As there are many families, it costs the food expenses very much.
+
+</string>
+			<key>translation</key>
+			<string>家族が多いので食費がすごくかかる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>phrase</key>
+			<string>As a wife is apt to get sick, it is worry.
+
+</string>
+			<key>translation</key>
+			<string>妻が病気がちなので心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>phrase</key>
+			<string>As father is hospitalized, it costs.
+
+As father is hospitalized, it costs.
+
+</string>
+			<key>translation</key>
+			<string>父が入院しているので費用がかかる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>phrase</key>
+			<string>The noise of the person of the neighboring house is noisy.
+</string>
+			<key>translation</key>
+			<string>隣の家の人の騒音がうるさい。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>phrase</key>
+			<string>I am considerably tired from the care of the parent.</string>
+			<key>translation</key>
+			<string>親の介護でかなり疲れている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>phrase</key>
+			<string>As a house shows a cockroach well, I am in trouble.</string>
+			<key>translation</key>
+			<string>家にゴキブリがよく出るので困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>phrase</key>
+			<string>As people of the sales come to the house well, I am in trouble.</string>
+			<key>translation</key>
+			<string>セールスの人がよく家に来るので困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>phrase</key>
+			<string>The family has prank calls well.</string>
+			<key>translation</key>
+			<string>家にいたずら電話がよくかかってくる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is not so close to a neighboring person.</string>
+			<key>translation</key>
+			<string>近所の人とあまり仲が良くない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>phrase</key>
+			<string>As a wife spends too much money, I am in trouble.</string>
+			<key>translation</key>
+			<string>妻がお金を使いすぎるので困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>phrase</key>
+			<string>The husband sleeps on an off day and never does family service.</string>
+			<key>translation</key>
+			<string>夫は休みの日は寝てばかりで、全然家族サービスをしてくれない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>phrase</key>
+			<string>The time when a husband comes home every night does not pay attention to a child late.</string>
+			<key>translation</key>
+			<string>夫が毎晩帰ってくる時間が遅く、子供に構ってくれない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is awkward that the conduct when drunk of the husband is bad.</string>
+			<key>translation</key>
+			<string>夫の酒癖が悪くて困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>phrase</key>
+			<string>Because it is working together, it is awkward what to do in children.</string>
+			<key>translation</key>
+			<string>共働きなので、子供をどうすればいいか困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string>A son is troubled with withdrawal in the room.</string>
+			<key>translation</key>
+			<string>息子が部屋に引きこもりで困っているんだ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>A wife seems to make immorality.</string>
+			<key>translation</key>
+			<string>妻が不倫をしているようだ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>A husband seems to make immorality.</string>
+			<key>translation</key>
+			<string>夫が不倫をしているようだ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is awkward that the income of the husband is bad.</string>
+			<key>translation</key>
+			<string>夫の稼ぎが悪くて困っている。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
 		<key>2</key>
 		<dict>
 			<key>phrase</key>
-			<string>My husband often shakes violence.</string>
+			<string>Husbands use violence well.</string>
 			<key>translation</key>
-			<string></string>
+			<string>夫がよく暴力を振るうんです。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
@@ -43,9 +748,9 @@
 		<key>1</key>
 		<dict>
 			<key>phrase</key>
-			<string>Recently, my daughter is in trouble in the rebellious period.</string>
+			<string>A daughter is in trouble in authority-resisting age.</string>
 			<key>translation</key>
-			<string></string>
+			<string>娘が反抗期で困っているんだ。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
@@ -54,12 +759,210 @@
 	</dict>
 	<key>Study</key>
 	<dict>
+		<key>20</key>
+		<dict>
+			<key>phrase</key>
+			<string>As English does not improve, I am troubled.</string>
+			<key>translation</key>
+			<string>英語が上達しないので悩んでいる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>phrase</key>
+			<string>I want to attach the skill of the field of IT, but it is extremely hard.</string>
+			<key>translation</key>
+			<string>IT分野のスキルを付けたいが、ものすごく苦手だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>phrase</key>
+			<string>When I study alone, distribution is not readily possible at time.</string>
+			<key>translation</key>
+			<string>一人で勉強する時、時間配分がなかなかできない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>phrase</key>
+			<string>Study does not seem to be in time by an examination.</string>
+			<key>translation</key>
+			<string>試験までに勉強が間に合いそうにない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is not interesting, and I cut concentration when I trip to solve a problem.</string>
+			<key>translation</key>
+			<string>問題を解くのにつまずくと面白くなくなり、集中が切れてしまう。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>phrase</key>
+			<string>I want you to increase more extracurricular classes.</string>
+			<key>translation</key>
+			<string>もっと課外授業を増やしてほしい。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>phrase</key>
+			<string>There is not confidence to give a result in an examination.</string>
+			<key>translation</key>
+			<string>試験で結果を出す自信がない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>phrase</key>
+			<string>It becomes sometimes uneasy now what study doing will be useful for in the future.</string>
+			<key>translation</key>
+			<string>今やっている勉強が将来何の役に立つのか、たまに不安になる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>phrase</key>
+			<string>I am troubled whether I should choose faculty of liberal arts and which of the physical science.</string>
+			<key>translation</key>
+			<string>文系と理系のどちらを選択すればいいか悩んでいる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>phrase</key>
+			<string>A classmate is too noisy during class and cannot concentrate it.</string>
+			<key>translation</key>
+			<string>クラスメートが授業中にうるさすぎて、集中できない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>phrase</key>
+			<string>The teacher&apos;s teaching is not good and does not know what you say.</string>
+			<key>translation</key>
+			<string>先生の教え方がうまくなく、何を言っているのかわからない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>phrase</key>
+			<string>I cannot overcome the field of weak point.</string>
+			<key>translation</key>
+			<string>苦手分野の克服ができない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>phrase</key>
+			<string>There is too much homework.</string>
+			<key>translation</key>
+			<string>宿題が多すぎる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>phrase</key>
+			<string>The contents of the class are dull.</string>
+			<key>translation</key>
+			<string>授業の内容がつまらない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string>I cannot follow the speed of the class.</string>
+			<key>translation</key>
+			<string>授業の速さについていけない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>Without enough acquisition credits in university, it may be remained in the same class for another year.</string>
+			<key>translation</key>
+			<string>大学の取得単位が足りず、留年になるかもしれない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>I can&apos;t concentrate on study.</string>
+			<key>translation</key>
+			<string>勉強に集中できない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>There is a lot of studying and comes to need more sleep.</string>
+			<key>translation</key>
+			<string>勉強することがたくさんあって、睡眠不足になってしまう。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
 		<key>2</key>
 		<dict>
 			<key>phrase</key>
-			<string>I am wondering how to study efficiently.</string>
+			<string>I don&apos;t know what I should do to study efficiently.</string>
 			<key>translation</key>
-			<string></string>
+			<string>効率良く勉強するにはどうすればいいかわからない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
@@ -68,9 +971,10 @@
 		<key>1</key>
 		<dict>
 			<key>phrase</key>
-			<string>Recently, my grades are not going up, so I am suffering.</string>
+			<string>A grade does not rise recently.
+</string>
 			<key>translation</key>
-			<string></string>
+			<string>最近、成績が上がらない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>New item - 4</key>
@@ -79,29 +983,381 @@
 	</dict>
 	<key>Work</key>
 	<dict>
+		<key>20</key>
+		<dict>
+			<key>phrase</key>
+			<string>The other party and negotiations do not readily go well.</string>
+			<key>translation</key>
+			<string>先方と交渉がなかなかうまくいかない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>phrase</key>
+			<string>There is too little bonus.</string>
+			<key>translation</key>
+			<string>ボーナスが少なすぎる</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>phrase</key>
+			<string>These past several years or a salary does not rise.</string>
+			<key>translation</key>
+			<string>ここ何年か給与が上がっていない</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>phrase</key>
+			<string>Work is too busy, and I do not get a rest at all, and there is not readily family service.</string>
+			<key>translation</key>
+			<string>仕事が忙しすぎて全然休みが取れず、なかなか家族サービスができない</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>phrase</key>
+			<string>There are many overseas visits, and fatigue considerably piles up.</string>
+			<key>translation</key>
+			<string>海外出張が多くて、かなり疲れが溜まっている</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>phrase</key>
+			<string>At the time of presentation, one&apos;s thought does not come around all the time.</string>
+			<key>translation</key>
+			<string>プレゼンテーションの時、いつも自分の思いが周りに伝わらない</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>phrase</key>
+			<string>It feels stress every morning to go to work in a crowded train.</string>
+			<key>translation</key>
+			<string>毎朝、満員電車で通勤するのはストレスが溜まる</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>phrase</key>
+			<string>I can not get paid.</string>
+			<key>translation</key>
+			<string>有給が取れそうもない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>phrase</key>
+			<string>I always have overtime and can not have private time.</string>
+			<key>translation</key>
+			<string>いつも残業が多くてプライベートな時間が取れない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>phrase</key>
+			<string>Recently I can not concentrate on my work due to lack of sleep.</string>
+			<key>translation</key>
+			<string>最近、睡眠不足で仕事に集中できない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>phrase</key>
+			<string>I am in trouble because my employee’s attitude towards work is bad.</string>
+			<key>translation</key>
+			<string>部下の勤務態度が悪くて困ってるんだよ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>phrase</key>
+			<string>It is troubled that their subordinates are slow to memorize their work.</string>
+			<key>translation</key>
+			<string>部下が仕事を覚えるのが遅くて困ってるんだよ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>phrase</key>
+			<string>Claims from customers are frequent, and I am in trouble.</string>
+			<key>translation</key>
+			<string>お客様からのクレームが多発していて、困ってるんだよ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>phrase</key>
+			<string>This work is demanding.</string>
+			<key>translation</key>
+			<string>この仕事は気が張るなあ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string>My health won’t hold out if I keep working overtime day after day.</string>
+			<key>translation</key>
+			<string>連日のように残業じゃあ、体がもたないよ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’ve got to entertain clients tonight. How depressing.</string>
+			<key>translation</key>
+			<string>今夜はクライアントの接待か。気が重いなあ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>It’s sad to think that my greatest pleasure at work is my lunch break.</string>
+			<key>translation</key>
+			<string>会社で唯一の楽しみがランチの時間なんて、なんか寂しいよね。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>I can’t keep up with the pace of this work much longer.</string>
+			<key>translation</key>
+			<string>この仕事にそろそろ息切れがしてきた。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>It doesn’t look like we can expect much of a bonus this year.</string>
+			<key>translation</key>
+			<string>今年のボーナスはあんまり期待できそうにないわ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
 		<key>1</key>
 		<dict>
 			<key>phrase</key>
 			<string>If you can’t get ahead in the world without knowing computers and English, then the future is pretty dark for me.</string>
 			<key>translation</key>
-			<string></string>
+			<string>コンピュータと英語ができないと出世できないなんて、私の将来真っ暗よ。</string>
 			<key>keyword</key>
 			<string></string>
-			<key>New item - 3</key>
+			<key>image</key>
 			<string></string>
 		</dict>
 	</dict>
 	<key>Love</key>
 	<dict>
+		<key>15</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m worried that the lack of language fluency may inadvertently hurt you.</string>
+			<key>translation</key>
+			<string>間違った言葉であなたを無意識に傷つけないか心配。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m worried because there is neither any promises nor plans for the future.</string>
+			<key>translation</key>
+			<string>将来の約束や予定がないので不安です。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m afraid of you meeting someone.</string>
+			<key>translation</key>
+			<string>あなたが誰かに会うのが怖い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m afraid of meeting you.</string>
+			<key>translation</key>
+			<string>あなたに会うのが怖い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m scared of you dumping me someday.</string>
+			<key>translation</key>
+			<string>あなたにいつか捨てられるのが怖い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m so frightened of losing you.</string>
+			<key>translation</key>
+			<string>あなたを失わないか怖い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m afraid I may inadvertently hurt you.</string>
+			<key>translation</key>
+			<string>あなたを傷つけてしまわないか怖い。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>phrase</key>
+			<string>I am no longer confident in getting along with you.</string>
+			<key>translation</key>
+			<string>あなたとやっていく自信がもうありません。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’m not sure sometimes if you truly love me.</string>
+			<key>translation</key>
+			<string>あなたが本当に私を愛しているかわからなくなる時がある。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>phrase</key>
+			<string>I don’t feel your affection in the way you used to give me.</string>
+			<key>translation</key>
+			<string>昔のようなあなたの愛を感じません。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>phrase</key>
+			<string>Sometimes I wonder what I mean to you.</string>
+			<key>translation</key>
+			<string>時々私はあなたにとって何だろうと思う。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>phrase</key>
+			<string>I don’t know you sometimes.</string>
+			<key>translation</key>
+			<string>あなたの考えが分からない時がある。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>phrase</key>
+			<string>I sense that you are moving away from me.</string>
+			<key>translation</key>
+			<string>あなたの気持ちが離れるのを感じる。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
 		<key>2</key>
 		<dict>
 			<key>phrase</key>
 			<string>I can’t get hold of you when I need you.</string>
 			<key>translation</key>
-			<string></string>
+			<string>私が必要としている時、あなたはいない。</string>
 			<key>keyword</key>
 			<string></string>
-			<key>New item - 4</key>
+			<key>image</key>
 			<string></string>
 		</dict>
 		<key>1</key>
@@ -112,20 +1368,152 @@
 			<string>会いたい(必要がある)時に会えない。</string>
 			<key>keyword</key>
 			<string></string>
-			<key>New item - 4</key>
+			<key>image</key>
 			<string></string>
 		</dict>
 	</dict>
 	<key>Health</key>
 	<dict>
+		<key>20</key>
+		<dict>
+			<key>phrase</key>
+			<string>This part hurts when I press it. </string>
+			<key>translation</key>
+			<string>このあたりを押すと痛みます。</string>
+			<key>keyword</key>
+			<string>=It hurts when I press around here.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>phrase</key>
+			<string>It hurts right here.</string>
+			<key>translation</key>
+			<string>ここが痛いんです。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>phrase</key>
+			<string>I’ve been suffering from this pain for about two weeks.</string>
+			<key>translation</key>
+			<string>２週間ぐらいこの痛みが続いています。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>phrase</key>
+			<string>My wisdom tooth aches.</string>
+			<key>translation</key>
+			<string>親知らずが痛みます。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>phrase</key>
+			<string>The pain started last night.</string>
+			<key>translation</key>
+			<string>昨夜から痛くなりました。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have a gripping pain in my stomach.</string>
+			<key>translation</key>
+			<string>胃がしくしく痛みます。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have terrible diarrhea.</string>
+			<key>translation</key>
+			<string>下痢がひどいんです。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have heartburn.</string>
+			<key>translation</key>
+			<string>胸やけがします。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have little appetite.</string>
+			<key>translation</key>
+			<string>あまり食欲がありません。</string>
+			<key>keyword</key>
+			<string>=My appetite is poor.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>phrase</key>
+			<string>Lately, I have a heavy feeling in my stomach.</string>
+			<key>translation</key>
+			<string>この頃、胃がもたれるんです。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>phrase</key>
+			<string>My stomach is upset.</string>
+			<key>translation</key>
+			<string>胃の調子が悪いんです。</string>
+			<key>keyword</key>
+			<string>stomach : 胃　upset : 調子が悪い</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have a headache.</string>
+			<key>translation</key>
+			<string>頭痛がするんです。</string>
+			<key>keyword</key>
+			<string>headache : 頭痛</string>
+			<key>image</key>
+			<string></string>
+		</dict>
 		<key>8</key>
 		<dict>
 			<key>phrase</key>
-			<string>My finger tingles.</string>
+			<string>A finger is nervous.</string>
 			<key>translation</key>
 			<string>指がピリピリします。</string>
 			<key>keyword</key>
-			<string></string>
+			<string>finger : 指　nervous : ピリピリする</string>
 			<key>New item - 4</key>
 			<string></string>
 		</dict>
@@ -147,7 +1535,7 @@
 			<key>translation</key>
 			<string>胸に鋭い痛みがあります。</string>
 			<key>keyword</key>
-			<string></string>
+			<string>sharp : 鋭い　pain : 痛み　chest : 胸</string>
 			<key>New item - 4</key>
 			<string></string>
 		</dict>

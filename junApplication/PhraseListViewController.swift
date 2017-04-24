@@ -14,7 +14,7 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
    
 
     //プロパティリストから読み込んだデータを格納する配列
-    var PhraseList:[String] = []
+    var PhraseList:[NSDictionary] = []
     //選択されたエリア名
     var selectName = ""
 
@@ -49,13 +49,17 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
                 print("data1----------------------------")
                 print(key1)
                 print(data1)
-            var dic2:NSDictionary = data1 as! NSDictionary
+                var dic2:NSDictionary = data1 as! NSDictionary
                 
-                if ((dic2["phrase"] as! String) == selectName){
+                if ((key as! String) == selectName){
                     
-                    myTranslation.text = dic2["translation"] as! String
+//                    myTranslation.text = dic2["translation"] as! String
+                    
+                    var Phrase = dic2["phrase"] as! String
+                    
+                    var translation = dic2["translation"] as! String
 
-                    PhraseList.append([Phrase, dic2[Phrase],translation, dic2[translation]])
+                    PhraseList.append(["phrase" : Phrase, "translation" : translation])
                 
                 
 //                for(key2,data2) in dic2 {
@@ -75,17 +79,11 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
                     print(PhraseList)
                     
                                         
-                    }
-                    
-                    
-                    
-                    
                 }
-                
+                    
             }
-            
-            
-        
+                
+        }
 
     }
         
@@ -106,9 +104,16 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         
         // 文字を表示するセルの取得
         let cell =
-            tableView.dequeueReusableCell(withIdentifier:"Cell", for: indexPath)
+            tableView.dequeueReusableCell(withIdentifier:"Cell", for: indexPath) as! CustomCell
         // 表示文字の設定
-        cell.textLabel?.text = PhraseList[indexPath.row]
+        
+        var dic = PhraseList[indexPath.row]
+        
+//        cell.textLabel?.text = dic["phrase"] as! String
+        
+        cell.Phrase.text = dic["phrase"] as! String
+        
+        cell.translation.text = dic["translation"] as! String
         
         //        cell.textLabel?.textColor = UIColor.blue
         
@@ -119,7 +124,10 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
         //選択された行に表示されている名前を格納
-        selectName = PhraseList[indexPath.row] as String
+        var dic = PhraseList[indexPath.row]
+        
+        selectName = dic["phrase"] as! String
+        
         //セグエを指定して画面遷移
         performSegue(withIdentifier: "showSecondView", sender: nil)
         }
