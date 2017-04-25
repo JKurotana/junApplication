@@ -26,6 +26,8 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         print("selectName----------------------------")
         print(selectName)
         
+        navigationItem.title = selectName
+        
         
         // プロパティリストのファイルパスを取得
         let filePath = Bundle.main.path(forResource:"Phraselist", ofType: "plist")
