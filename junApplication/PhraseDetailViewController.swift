@@ -11,11 +11,12 @@ import AVFoundation
 
 class PhraseDetailViewController: UIViewController {
 
-    @IBOutlet weak var myPhrase: UILabel!
-    //選択されたエリア名
+    @IBOutlet weak var myPhrase: UITextView!
+        //選択されたエリア名
     var selectName = ""
     
-    @IBOutlet weak var myTranslation: UILabel!
+   
+    @IBOutlet weak var myTranslation: UITextView!
     
     @IBOutlet weak var myKeyword: UILabel!
     

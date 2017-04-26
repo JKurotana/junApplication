@@ -23,6 +23,11 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
     override func viewDidLoad() {
         super.viewDidLoad()
         
+//        let backButtonItem = UIBarButtonItem(title: "Back", style: .plain, target: nil, action: nil)
+        
+        self.navigationItem.backBarButtonItem?.title = "Back"
+    
+    
         print("selectName----------------------------")
         print(selectName)
         

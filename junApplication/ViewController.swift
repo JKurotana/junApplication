@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        navigationItem.title = "Naya〜mi〜"
+    }
 
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
@@ -24,6 +28,8 @@ class ViewController: UIViewController {
         
             // 次の画面のプロパティに選択されたエリア名を設定
             secondVC.selectName = segue.identifier!
+        
+            navigationItem.title = "Back"
         }
 
     

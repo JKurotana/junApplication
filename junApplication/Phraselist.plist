@@ -2,14 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Others</key>
+	<dict>
+		<key>2</key>
+		<dict>
+			<key>phrase</key>
+			<string>As eyes and a nose are always done when it is time of the pollen, it is hard to spend it every day.
+
+</string>
+			<key>translation</key>
+			<string>花粉の時期になると、いつも目と鼻がやられるので、毎日過ごしづらい。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>phrase</key>
+			<string>I go abroad, but terrorism does not happen or is worry this time.</string>
+			<key>translation</key>
+			<string>今度海外に行くが、テロが起きないか心配だ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</dict>
 	<key>Sex life</key>
 	<dict>
 		<key>20</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>There is an immorality partner, but does not part even if neither the love nor the sexual desire springs out and says that I want to part.</string>
 			<key>translation</key>
-			<string></string>
+			<string>不倫相手がいるが、愛情も性欲も湧かなくなってしまい、別れたいと言っても、別れてくれない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -18,9 +45,9 @@
 		<key>19</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>There is the man of the boss who is already married, but is interested.</string>
 			<key>translation</key>
-			<string></string>
+			<string>すでに結婚している上司の男性がいるが、気になってしょうがない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -29,9 +56,9 @@
 		<key>18</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>I am already married, but there is the woman of the subordinate who is interested in the workplace.</string>
 			<key>translation</key>
-			<string></string>
+			<string>すでに結婚しているが、職場に気になる部下の女性がいる。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -40,9 +67,9 @@
 		<key>17</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>I do not do sexual intercourse for this and that three years.</string>
 			<key>translation</key>
-			<string></string>
+			<string>性行為をかれこれ３年はしていない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -51,9 +78,9 @@
 		<key>16</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>The sexual intercourse with the boyfriend gets into a rut recently.</string>
 			<key>translation</key>
-			<string></string>
+			<string>最近、彼氏との性行為がマンネリ化してきている。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -62,9 +89,9 @@
 		<key>15</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>It is awkward that sexual desire is too strong.</string>
 			<key>translation</key>
-			<string></string>
+			<string>性欲が強すぎて困っている。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -73,9 +100,9 @@
 		<key>14</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>I was pleased with getting married, and one&apos;s woman who went the way one wants it to having been able to do it, but came to be refused without, actually, going so even if I invited you.</string>
 			<key>translation</key>
-			<string></string>
+			<string>結婚して自分の思い通りになる女性ができたことを喜んだが、実際はそうはいかず、誘っても拒まれるようになった。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -84,9 +111,9 @@
 		<key>13</key>
 		<dict>
 			<key>phrase</key>
-			<string></string>
+			<string>I came to see it as justice and one&apos;s sexual desire processing, and sexual intercourse was not jam-packed after I got married.</string>
 			<key>translation</key>
-			<string></string>
+			<string>義理や自分の性欲処理として見てしまうようになり、結婚してから性行為がつまらなくなった。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -1828,6 +1855,65 @@ As father is hospitalized, it costs.
 	</dict>
 	<key>Love</key>
 	<dict>
+		<key>20</key>
+		<dict>
+			<key>phrase</key>
+			<string>A classmate has had a favorite person to have a boyfriend.</string>
+			<key>translation</key>
+			<string>彼氏がいるのに、クラスメートに好きな人ができてしまった。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>phrase</key>
+			<string>At the time of last date, I quarrel with her and thereafter do not get communication.
+
+</string>
+			<key>translation</key>
+			<string>この前のデートの時、彼女とケンカをしてしまい、それ以来連絡が取れない。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>phrase</key>
+			<string>Oneself did not want to yet part, but talk about divorce has been approached her with.
+
+</string>
+			<key>translation</key>
+			<string>自分はまだ別れたくないが、彼女に別れ話しを持ちかけられてしまった。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>phrase</key>
+			<string>He seems to chat with the other woman every day.</string>
+			<key>translation</key>
+			<string>彼が他の女と毎日チャットをしているようだ。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>phrase</key>
+			<string>I have seen it when she dated with the other man.</string>
+			<key>translation</key>
+			<string>彼女が他の男とデートをしているところを見てしまった。</string>
+			<key>keyword</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
 		<key>15</key>
 		<dict>
 			<key>phrase</key>
