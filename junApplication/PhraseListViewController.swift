@@ -26,10 +26,7 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
         print("selectName----------------------------")
         print(selectName)
         
-        navigationItem.title = selectName
-        
-        
-        // プロパティリストのファイルパスを取得
+        //プロパkey_tストのファイルパスを取得
         let filePath = Bundle.main.path(forResource:"Phraselist", ofType: "plist")
         // プロパティリストからデータを取得（デｲクショナリー型）
         let dic = NSDictionary(contentsOfFile: filePath!)
