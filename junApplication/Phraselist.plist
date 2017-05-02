@@ -361,7 +361,7 @@
 		<dict>
 			<key>phrase</key>
 			<string>The conflict between woman employees is ignominious in a company.</string>
-			<key>tranlation</key>
+			<key>translation</key>
 			<string>会社で女性社員同士の対立が醜い。</string>
 			<key>keyword</key>
 			<string></string>
@@ -1648,7 +1648,7 @@ As father is hospitalized, it costs.
 			<key>phrase</key>
 			<string>There is too little bonus.</string>
 			<key>translation</key>
-			<string>ボーナスが少なすぎる</string>
+			<string>ボーナスが少なすぎる。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -1659,7 +1659,7 @@ As father is hospitalized, it costs.
 			<key>phrase</key>
 			<string>These past several years or a salary does not rise.</string>
 			<key>translation</key>
-			<string>ここ何年か給与が上がっていない</string>
+			<string>ここ何年か給与が上がっていない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -1670,7 +1670,7 @@ As father is hospitalized, it costs.
 			<key>phrase</key>
 			<string>Work is too busy, and I do not get a rest at all, and there is not readily family service.</string>
 			<key>translation</key>
-			<string>仕事が忙しすぎて全然休みが取れず、なかなか家族サービスができない</string>
+			<string>仕事が忙しすぎて全然休みが取れず、なかなか家族サービスができない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -1681,7 +1681,7 @@ As father is hospitalized, it costs.
 			<key>phrase</key>
 			<string>There are many overseas visits, and fatigue considerably piles up.</string>
 			<key>translation</key>
-			<string>海外出張が多くて、かなり疲れが溜まっている</string>
+			<string>海外出張が多くて、かなり疲れが溜まっている。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -1692,7 +1692,7 @@ As father is hospitalized, it costs.
 			<key>phrase</key>
 			<string>At the time of presentation, one&apos;s thought does not come around all the time.</string>
 			<key>translation</key>
-			<string>プレゼンテーションの時、いつも自分の思いが周りに伝わらない</string>
+			<string>プレゼンテーションの時、いつも自分の思いが周りに伝わらない。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>
@@ -1703,7 +1703,7 @@ As father is hospitalized, it costs.
 			<key>phrase</key>
 			<string>It feels stress every morning to go to work in a crowded train.</string>
 			<key>translation</key>
-			<string>毎朝、満員電車で通勤するのはストレスが溜まる</string>
+			<string>毎朝、満員電車で通勤するのはストレスが溜まる。</string>
 			<key>keyword</key>
 			<string></string>
 			<key>image</key>

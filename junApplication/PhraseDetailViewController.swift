@@ -20,6 +20,10 @@ class PhraseDetailViewController: UIViewController {
     
     @IBOutlet weak var myKeyword: UILabel!
     
+    @IBAction func showActivityView(_ sender: UIBarButtonItem) {
+        let controller = UIActivityViewController(activityItems: [myPhrase.text], applicationActivities: nil)
+        self.present(controller, animated: true, completion: nil)
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         

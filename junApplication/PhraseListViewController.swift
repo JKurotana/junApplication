@@ -26,7 +26,75 @@ class PhraseListViewController: UIViewController,UITableViewDataSource,UITableVi
 //        let backButtonItem = UIBarButtonItem(title: "Back", style: .plain, target: nil, action: nil)
         
         self.navigationItem.backBarButtonItem?.title = "Back"
-    
+        navigationItem.title = selectName
+        
+        if (selectName == "Health"){
+            navigationItem.title = "健康 🏥"
+            
+        }
+        
+        if (selectName == "Love"){
+            navigationItem.title = "恋愛 💓"
+            
+        }
+        
+        if (selectName == "Work"){
+            navigationItem.title = "仕事 💻"
+            
+        }
+        
+        if (selectName == "Study"){
+            navigationItem.title = "勉強 📝"
+            
+        }
+        
+        if (selectName == "Family"){
+            navigationItem.title = "家庭 🏠"
+            
+        }
+        
+        if (selectName == "Childcare"){
+            navigationItem.title = "育児 👶"
+            
+        }
+
+        if (selectName == "Education"){
+            navigationItem.title = "教育 🏫"
+            
+        }
+        
+        if (selectName == "Money・Property"){
+            navigationItem.title = "金銭・財産 💰"
+            
+        }
+        
+        if (selectName == "Human relations"){
+            navigationItem.title = "人間関係 🌏"
+            
+        }
+        
+        if (selectName == "Sex life"){
+            navigationItem.title = "性生活 🌷"
+            
+        }
+        
+        if (selectName == "Others"){
+            navigationItem.title = "その他 😆"
+            
+        }
+
+
+
+
+
+        
+
+
+
+        
+        
+
+        
     
         print("selectName----------------------------")
         print(selectName)
